@@ -16,16 +16,19 @@ This repository contains the configuration and deployment files for the Saleor e
 
 ## Setup Instructions
 
-(You will add detailed setup instructions as you progress through the project)
+ Installing Kind (Kubernetes in Docker)
+ installing kubectl
+ Creating a local Kubernetes cluster
+ signup on github to make repository
 
 ## Security Measures
 
-(Document the security measures you implement throughout the project)
+   1.non-root user
+   2.resource limit
+   3.secure base images
 
 ## Contributors
 
-- [Your Name]
+- sandeep kaur
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
