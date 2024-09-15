@@ -16,10 +16,10 @@ This repository contains the configuration and deployment files for the Saleor e
 
 ## Setup Instructions
 
- Installing Kind (Kubernetes in Docker)
- installing kubectl
- Creating a local Kubernetes cluster
- signup on github to make repository
+- Installing Kind (Kubernetes in Docker)
+- installing kubectl
+- Creating a local Kubernetes cluster
+- signup on github to make repository
 
 ## Security Measures
 
